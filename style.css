@@ -24,8 +24,13 @@ header {
     color: black;
 }
 
+header img {
+    opacity: 0.6;
+}
+
 header img:hover {
     cursor: pointer;
+    opacity: 100%;
 }
 
 .section1 {
